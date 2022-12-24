@@ -1,0 +1,50 @@
+section{
+    padding-top: 8px;
+    background-color: #cee5d0;
+}
+
+footer {
+    background-color: darkslategray;
+    color: white;
+    font-size: small;
+    padding-bottom: 20px;
+}
+.ultimofooter {
+    background-color: #7C8584;
+    text-align: center;
+    color: white;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    padding: 2px;
+    font-size: small;
+}
+
+#inicio{
+    background-color: #ecb390
+}
+
+#seccionimagen{
+    background-color: #fcf8e8;
+    display: grid;
+    place-items: center;
+    
+}
+
+#acercademi{
+    background-color: #94b49f;
+}
+
+footer{
+    background-color: #7c8584;
+}
+
+#imgpresentacion{
+    width: 250px;
+    height: 250px;
+    margin-top: 10px;
+}
+.navbar{
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
